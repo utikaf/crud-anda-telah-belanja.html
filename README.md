@@ -11,3 +11,8 @@ maka hasilnya seperti berikut.
 
 jika anda memasukan jumlah harga kurang dari 10.000 maka :
 
+![image](https://user-images.githubusercontent.com/97659986/162674566-6c58f9bf-ff63-432a-a277-f22e2c362a4a.png)
+
+dan hasilnya seperti berikut:
+
+![image](https://user-images.githubusercontent.com/97659986/162674609-4eb7c289-975e-4e26-92de-7b4aaa30a303.png)
